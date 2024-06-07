@@ -162,3 +162,4 @@ cython_debug/
 # dataset
 ./data/train/*.jpg
 ./data/validation/*.jpg
+./Final Project/dataset
